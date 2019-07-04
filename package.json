@@ -14,5 +14,1600 @@
   "devDependencies": {
     "babel-preset-expo": "^5.0.0"
   },
-  "private": true
+  "private": true,
+
+  "200": {
+      "id": 20,
+      "name": "PUBG",
+      "slug": "pubg",
+      "leagues": [
+        {
+          "id": 4144,
+          "url": "https://pgi.playbattlegrounds.com/schedule",
+          "name": "Global Invitational",
+          "slug": "pubg-global-invitational",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4144/600px-PUBG_Global_Invitational_2018_logo.png",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1538,
+              "name": "",
+              "slug": "pubg-global-invitational-2018",
+              "season": null,
+              "begin_at": "2018-07-25T15:30:00Z",
+              "year": 2018,
+              "league_id": 4144,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": "2018-07-29T17:15:00Z",
+              "full_name": "2018"
+            }
+          ]
+        }
+      ],
+      "current_version": null
+    },
+    "201": {
+      "id": 14,
+      "name": "Overwatch",
+      "slug": "ow",
+      "leagues": [
+        {
+          "id": 4105,
+          "url": "https://worldcup.playoverwatch.com/en-us/",
+          "name": "World Cup",
+          "slug": "ow-world-cup",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4105/owwc-logo-33fea02e08cf9855977cef3f7fa422cb5eced4083b868f5bc10ee4030ee67aa706f75d6cb21111a09acb70b079ab29f8106104c022f82ff32bb3b188c24f442d.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1371,
+              "name": null,
+              "slug": "ow-world-cup-2017",
+              "season": null,
+              "begin_at": "2017-07-13T22:00:00Z",
+              "year": 2017,
+              "league_id": 4105,
+              "winner_id": 1603,
+              "winner_type": "Team",
+              "end_at": "2017-11-05T22:00:00Z",
+              "full_name": "2017"
+            },
+            {
+              "id": 1537,
+              "name": null,
+              "slug": "ow-world-cup-2018",
+              "season": null,
+              "begin_at": "2018-08-16T22:00:00Z",
+              "year": 2018,
+              "league_id": 4105,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": "2018-11-02T23:00:00Z",
+              "full_name": "2018"
+            }
+          ]
+        },
+        {
+          "id": 4135,
+          "url": "https://overwatchleague.com/en-us/",
+          "name": "Overwatch League",
+          "slug": "overwatch-league",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4135/esports-overwatch-36d8f7f486d363c1.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1500,
+              "name": "2018",
+              "slug": "overwatch-league-2018-1-2018",
+              "season": "1",
+              "begin_at": "2017-12-07T00:00:00Z",
+              "year": 2018,
+              "league_id": 4135,
+              "winner_id": 1555,
+              "winner_type": "Team",
+              "end_at": null,
+              "full_name": "2018 season 1 2018"
+            }
+          ]
+        }
+      ],
+      "current_version": null,
+    "201": {
+      "id": 4,
+      "name": "Dota 2",
+      "slug": "dota-2",
+      "leagues": [
+        {
+          "id": 4106,
+          "url": null,
+          "name": "The International",
+          "slug": "the-international",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4106/The_International_2011.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1382,
+              "name": null,
+              "slug": "the-international-6-2016-c8b0c008-ccd9-406a-b0dd-72085325be2b",
+              "season": "6",
+              "begin_at": "2016-08-02T22:00:00Z",
+              "year": 2016,
+              "league_id": 4106,
+              "winner_id": 1720,
+              "winner_type": "Team",
+              "end_at": "2016-08-13T22:00:00Z",
+              "full_name": "Season 6 2016"
+            },
+            {
+              "id": 1380,
+              "name": null,
+              "slug": "the-international-7-2017-9785411d-af04-48f9-bf86-b568b8126055",
+              "season": "7",
+              "begin_at": "2017-08-01T22:00:00Z",
+              "year": 2017,
+              "league_id": 4106,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2017-08-12T22:00:00Z",
+              "full_name": "Season 7 2017"
+            },
+            {
+              "id": 1466,
+              "name": null,
+              "slug": "the-international-8-2018",
+              "season": "8",
+              "begin_at": "2018-08-20T00:00:00Z",
+              "year": 2018,
+              "league_id": 4106,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2018-08-25T00:00:00Z",
+              "full_name": "Season 8 2018"
+            }
+          ]
+        },
+        {
+          "id": 4107,
+          "url": null,
+          "name": "Dota Major Championships",
+          "slug": "dota-major-championships",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4107/Dota_Major_Championships_Announcement.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1391,
+              "name": "The Frankfurt Major",
+              "slug": "dota-major-championships-2015",
+              "season": null,
+              "begin_at": "2015-11-13T00:00:00Z",
+              "year": 2015,
+              "league_id": 4107,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2015-11-21T00:00:00Z",
+              "full_name": "The frankfurt major 2015"
+            },
+            {
+              "id": 1389,
+              "name": "The Shanghai Major",
+              "slug": "dota-major-championships-2016-2e103038-c8ab-433e-a452-b00ef40a49c5",
+              "season": null,
+              "begin_at": "2016-02-25T00:00:00Z",
+              "year": 2016,
+              "league_id": 4107,
+              "winner_id": 1656,
+              "winner_type": "Team",
+              "end_at": "2016-03-06T00:00:00Z",
+              "full_name": "The shanghai major 2016"
+            },
+            {
+              "id": 1387,
+              "name": "The Manila Major",
+              "slug": "dota-major-championships-2016-72be6bd6-826e-4f21-b17f-5d9d06bf979f",
+              "season": null,
+              "begin_at": "2016-06-03T00:00:00Z",
+              "year": 2016,
+              "league_id": 4107,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2016-06-12T00:00:00Z",
+              "full_name": "The manila major 2016"
+            },
+            {
+              "id": 1385,
+              "name": "The Boston Major",
+              "slug": "dota-major-championships-2016",
+              "season": null,
+              "begin_at": "2016-12-03T00:00:00Z",
+              "year": 2016,
+              "league_id": 4107,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2016-12-10T00:00:00Z",
+              "full_name": "The boston major 2016"
+            },
+            {
+              "id": 1383,
+              "name": "The Kiev Major",
+              "slug": "dota-major-championships-2017",
+              "season": null,
+              "begin_at": "2017-04-24T00:00:00Z",
+              "year": 2017,
+              "league_id": 4107,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2017-04-30T00:00:00Z",
+              "full_name": "The kiev major 2017"
+            }
+          ]
+        },
+        {
+          "id": 4108,
+          "url": null,
+          "name": "PGL",
+          "slug": "pgl",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4108/PGL.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1393,
+              "name": "Open Bucharest",
+              "slug": "pgl-2017",
+              "season": null,
+              "begin_at": "2017-10-19T00:00:00Z",
+              "year": 2017,
+              "league_id": 4108,
+              "winner_id": 1677,
+              "winner_type": "Team",
+              "end_at": "2017-10-22T00:00:00Z",
+              "full_name": "Open bucharest 2017"
+            },
+            {
+              "id": 1394,
+              "name": "The Bucharest Major",
+              "slug": "pgl-2018",
+              "season": null,
+              "begin_at": "2018-03-04T00:00:00Z",
+              "year": 2018,
+              "league_id": 4108,
+              "winner_id": 1651,
+              "winner_type": "Team",
+              "end_at": "2018-03-11T00:00:00Z",
+              "full_name": "The bucharest major 2018"
+            },
+            {
+              "id": 1603,
+              "name": "The Kuala Lumpur Major",
+              "slug": "pgl-the-kuala-lumpur-major-2018",
+              "season": null,
+              "begin_at": "2018-11-08T23:00:00Z",
+              "year": 2018,
+              "league_id": 4108,
+              "winner_id": null,
+              "winner_type": "Team",
+              "end_at": "2018-11-17T23:00:00Z",
+              "full_name": "The kuala lumpur major 2018"
+            }
+          ]
+        },
+        {
+          "id": 4109,
+          "url": null,
+          "name": "GESC",
+          "slug": "gesc",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4109/GESC.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1395,
+              "name": "Indonesia - Jakarta",
+              "slug": "gesc-2018",
+              "season": null,
+              "begin_at": "2018-03-14T23:00:00Z",
+              "year": 2018,
+              "league_id": 4109,
+              "winner_id": 1653,
+              "winner_type": "Team",
+              "end_at": "2018-03-17T23:00:00Z",
+              "full_name": "Indonesia - jakarta 2018"
+            },
+            {
+              "id": 1457,
+              "name": "Thailand - Bangkok",
+              "slug": "gesc-thailand-bangkok-2018",
+              "season": null,
+              "begin_at": "2018-05-08T22:00:00Z",
+              "year": 2018,
+              "league_id": 4109,
+              "winner_id": 1816,
+              "winner_type": "Team",
+              "end_at": "2018-05-11T22:00:00Z",
+              "full_name": "Thailand - bangkok 2018"
+            }
+          ]
+        },
+        {
+          "id": 4110,
+          "url": null,
+          "name": "Perfect World",
+          "slug": "perfect-world-masters",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4110/Perfect_World_Masters_2017.jpg",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1396,
+              "name": "Masters",
+              "slug": "perfect-world-masters-masters-2017",
+              "season": null,
+              "begin_at": "2017-11-19T00:00:00Z",
+              "year": 2017,
+              "league_id": 4110,
+              "winner_id": 1652,
+              "winner_type": "Team",
+              "end_at": "2017-11-26T00:00:00Z",
+              "full_name": "Masters 2017"
+            },
+            {
+              "id": 1469,
+              "name": "China Dota2 Supermajor",
+              "slug": "perfect-world-masters-china-dota2-supermajor-2018",
+              "season": null,
+              "begin_at": "2018-06-02T22:00:00Z",
+              "year": 2018,
+              "league_id": 4110,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2018-06-09T22:00:00Z",
+              "full_name": "China dota2 supermajor 2018"
+            }
+          ]
+        },
+        {
+          "id": 4111,
+          "url": null,
+          "name": "EPICENTER",
+          "slug": "epicenter:-moscow",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4111/Epicenter.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1397,
+              "name": null,
+              "slug": "epicenter-moscow-1-2016",
+              "season": "1",
+              "begin_at": "2016-05-08T22:00:00Z",
+              "year": 2016,
+              "league_id": 4111,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2016-05-14T22:00:00Z",
+              "full_name": "Season 1 2016"
+            },
+            {
+              "id": 1398,
+              "name": null,
+              "slug": "epicenter-moscow-2-2016",
+              "season": "2",
+              "begin_at": "2017-06-03T22:00:00Z",
+              "year": 2017,
+              "league_id": 4111,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2017-06-10T22:00:00Z",
+              "full_name": "Season 2 2017"
+            },
+            {
+              "id": 1454,
+              "name": "XL",
+              "slug": "epicenter-moscow-xl-3-2018",
+              "season": "3",
+              "begin_at": "2018-04-26T22:00:00Z",
+              "year": 2018,
+              "league_id": 4111,
+              "winner_id": 1657,
+              "winner_type": "Team",
+              "end_at": "2018-05-05T22:00:00Z",
+              "full_name": "Xl season 3 2018"
+            }
+          ]
+        },
+        {
+          "id": 4112,
+          "url": null,
+          "name": "Captains Draft",
+          "slug": "captains-draft",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4112/Captains_Draft_4.0.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1399,
+              "name": "3.0",
+              "slug": "captains-draft-3-0-3-2016",
+              "season": "3",
+              "begin_at": "2016-01-18T23:00:00Z",
+              "year": 2016,
+              "league_id": 4112,
+              "winner_id": 1653,
+              "winner_type": "Team",
+              "end_at": "2016-02-16T23:00:00Z",
+              "full_name": "3.0 season 3 2016"
+            },
+            {
+              "id": 1400,
+              "name": "4.0",
+              "slug": "captains-draft-4-0-4-2018",
+              "season": "4",
+              "begin_at": "2018-01-03T23:00:00Z",
+              "year": 2018,
+              "league_id": 4112,
+              "winner_id": 1656,
+              "winner_type": "Team",
+              "end_at": "2018-01-06T23:00:00Z",
+              "full_name": "4.0 season 4 2018"
+            }
+          ]
+        },
+        {
+          "id": 4113,
+          "url": null,
+          "name": "Dota Asia Championships",
+          "slug": "dota-2-asia-championship",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4113/DAC.jpg",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1455,
+              "name": null,
+              "slug": "dota-2-asia-championship-2018",
+              "season": "",
+              "begin_at": "2018-03-30T00:00:00Z",
+              "year": 2018,
+              "league_id": 4113,
+              "winner_id": 1677,
+              "winner_type": "Team",
+              "end_at": "2018-04-07T00:00:00Z",
+              "full_name": "2018"
+            }
+          ]
+        },
+        {
+          "id": 4114,
+          "url": null,
+          "name": "ESL One",
+          "slug": "esl-one",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4114/esl-one_logo.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1404,
+              "name": "Manila",
+              "slug": "esl-one-2016-65845bb0-108e-4fed-9459-4a092c78ebf2",
+              "season": null,
+              "begin_at": "2016-04-21T22:00:00Z",
+              "year": 2016,
+              "league_id": 4114,
+              "winner_id": 1720,
+              "winner_type": "Team",
+              "end_at": "2016-04-23T22:00:00Z",
+              "full_name": "Manila 2016"
+            },
+            {
+              "id": 1403,
+              "name": "Frankfurt",
+              "slug": "esl-one-2016",
+              "season": null,
+              "begin_at": "2016-06-16T22:00:00Z",
+              "year": 2016,
+              "league_id": 4114,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2016-06-18T22:00:00Z",
+              "full_name": "Frankfurt 2016"
+            },
+            {
+              "id": 1402,
+              "name": "Genting",
+              "slug": "esl-one-2017",
+              "season": null,
+              "begin_at": "2017-01-05T23:00:00Z",
+              "year": 2017,
+              "league_id": 4114,
+              "winner_id": 1658,
+              "winner_type": "Team",
+              "end_at": "2017-01-07T23:00:00Z",
+              "full_name": "Genting 2017"
+            },
+            {
+              "id": 1405,
+              "name": "Hamburg",
+              "slug": "esl-one-2017-51fc646b-4e4c-4726-beea-58842aa44325",
+              "season": null,
+              "begin_at": "2017-10-25T22:00:00Z",
+              "year": 2017,
+              "league_id": 4114,
+              "winner_id": 1651,
+              "winner_type": "Team",
+              "end_at": "2017-10-28T22:00:00Z",
+              "full_name": "Hamburg 2017"
+            },
+            {
+              "id": 1407,
+              "name": "Genting",
+              "slug": "esl-one-2018-cc18650e-4939-4560-ab02-229cd07ffdbb",
+              "season": null,
+              "begin_at": "2018-01-22T23:00:00Z",
+              "year": 2018,
+              "league_id": 4114,
+              "winner_id": 1652,
+              "winner_type": "Team",
+              "end_at": "2018-01-27T23:00:00Z",
+              "full_name": "Genting 2018"
+            },
+            {
+              "id": 1406,
+              "name": "Katowice",
+              "slug": "esl-one-2018",
+              "season": null,
+              "begin_at": "2018-02-19T23:00:00Z",
+              "year": 2018,
+              "league_id": 4114,
+              "winner_id": 1651,
+              "winner_type": "Team",
+              "end_at": "2018-02-24T23:00:00Z",
+              "full_name": "Katowice 2018"
+            },
+            {
+              "id": 1462,
+              "name": "Birmingham",
+              "slug": "esl-one-birmingham-2018",
+              "season": null,
+              "begin_at": "2018-05-23T00:00:00Z",
+              "year": 2018,
+              "league_id": 4114,
+              "winner_id": 1651,
+              "winner_type": "Team",
+              "end_at": "2018-05-27T00:00:00Z",
+              "full_name": "Birmingham 2018"
+            },
+            {
+              "id": 1606,
+              "name": "Hamburg",
+              "slug": "esl-one-hamburg-2018",
+              "season": null,
+              "begin_at": "2018-10-22T22:00:00Z",
+              "year": 2018,
+              "league_id": 4114,
+              "winner_id": null,
+              "winner_type": "Team",
+              "end_at": "2018-10-27T22:00:00Z",
+              "full_name": "Hamburg 2018"
+            }
+          ]
+        },
+        {
+          "id": 4115,
+          "url": null,
+          "name": "World Cyber Arena",
+          "slug": "world-cyber-arena",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4115/WCA.png",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1408,
+              "name": null,
+              "slug": "world-cyber-arena-2017",
+              "season": null,
+              "begin_at": null,
+              "year": 2017,
+              "league_id": 4115,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "2017"
+            },
+            {
+              "id": 1409,
+              "name": "Grand Finals",
+              "slug": "world-cyber-arena-2016",
+              "season": null,
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4115,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Grand finals 2016"
+            },
+            {
+              "id": 1410,
+              "name": null,
+              "slug": "world-cyber-arena-3-2016",
+              "season": "3",
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4115,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Season 3 2016"
+            },
+            {
+              "id": 1411,
+              "name": null,
+              "slug": "world-cyber-arena-2-2016",
+              "season": "2",
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4115,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Season 2 2016"
+            },
+            {
+              "id": 1412,
+              "name": null,
+              "slug": "world-cyber-arena-1-2016",
+              "season": "1",
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4115,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Season 1 2016"
+            }
+          ]
+        },
+        {
+          "id": 4116,
+          "url": null,
+          "name": "World Electronic Sports Games International",
+          "slug": "world-electronic-sports-games-international",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4116/800px-WESG_2017.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1413,
+              "name": "WESG",
+              "slug": "world-electronic-sports-games-international-wesg-2016",
+              "season": null,
+              "begin_at": "2017-01-11T23:00:00Z",
+              "year": 2016,
+              "league_id": 4116,
+              "winner_id": 1655,
+              "winner_type": "Team",
+              "end_at": "2017-01-14T23:00:00Z",
+              "full_name": "Wesg 2016"
+            }
+          ]
+        },
+        {
+          "id": 4117,
+          "url": null,
+          "name": "The Summit",
+          "slug": "the-summit",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4117/Dota_Summit_9_Logo.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1488,
+              "name": null,
+              "slug": "the-summit-5-2016",
+              "season": "5",
+              "begin_at": "2016-07-12T22:00:00Z",
+              "year": 2016,
+              "league_id": 4117,
+              "winner_id": 1651,
+              "winner_type": "Team",
+              "end_at": "2016-07-16T22:00:00Z",
+              "full_name": "Season 5 2016"
+            },
+            {
+              "id": 1487,
+              "name": null,
+              "slug": "the-summit-6-2016",
+              "season": "6",
+              "begin_at": "2016-11-15T23:00:00Z",
+              "year": 2016,
+              "league_id": 4117,
+              "winner_id": 1651,
+              "winner_type": "Team",
+              "end_at": "2016-11-19T23:00:00Z",
+              "full_name": "Season 6 2016"
+            },
+            {
+              "id": 1486,
+              "name": null,
+              "slug": "the-summit-7-2017",
+              "season": "7",
+              "begin_at": "2017-04-05T22:00:00Z",
+              "year": 2017,
+              "league_id": 4117,
+              "winner_id": 1651,
+              "winner_type": "Team",
+              "end_at": "2017-06-17T22:00:00Z",
+              "full_name": "Season 7 2017"
+            },
+            {
+              "id": 1489,
+              "name": "King's Cup : America",
+              "slug": "the-summit-king-s-cup-america-2017",
+              "season": null,
+              "begin_at": "2017-09-05T22:00:00Z",
+              "year": 2017,
+              "league_id": 4117,
+              "winner_id": 1817,
+              "winner_type": "Team",
+              "end_at": "2017-09-19T22:00:00Z",
+              "full_name": "King's cup : america 2017"
+            },
+            {
+              "id": 1415,
+              "name": null,
+              "slug": "the-summit-8-2016",
+              "season": "8",
+              "begin_at": "2017-12-12T23:00:00Z",
+              "year": 2017,
+              "league_id": 4117,
+              "winner_id": 1651,
+              "winner_type": "Team",
+              "end_at": "2017-12-16T23:00:00Z",
+              "full_name": "Season 8 2017"
+            },
+            {
+              "id": 1540,
+              "name": null,
+              "slug": "the-summit-9-2018",
+              "season": "9",
+              "begin_at": "2018-07-24T22:00:00Z",
+              "year": 2018,
+              "league_id": 4117,
+              "winner_id": 1653,
+              "winner_type": "Team",
+              "end_at": "2018-07-28T22:00:00Z",
+              "full_name": "Season 9 2018"
+            }
+          ]
+        },
+        {
+          "id": 4118,
+          "url": null,
+          "name": "Galaxy Battle",
+          "slug": "galaxy-battle",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4118/702px-Galaxy_Battles.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1416,
+              "name": "NESO 4th National E-Sports ShenShen Open Tournament",
+              "slug": "galaxy-battle-2016",
+              "season": null,
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4118,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Neso 4th national e-sports shenshen open tournament 2016"
+            },
+            {
+              "id": 1456,
+              "name": "Emerging worlds",
+              "slug": "galaxy-battle-emerging-worlds-2-2018",
+              "season": "2",
+              "begin_at": null,
+              "year": 2018,
+              "league_id": 4118,
+              "winner_id": 1804,
+              "winner_type": "Team",
+              "end_at": null,
+              "full_name": "Emerging worlds season 2 2018"
+            }
+          ]
+        },
+        {
+          "id": 4119,
+          "url": null,
+          "name": "Zotac",
+          "slug": "zotac",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4119/3721.png",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1417,
+              "name": "Cup Masters",
+              "slug": "zotac-2016",
+              "season": null,
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4119,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Cup masters 2016"
+            }
+          ]
+        },
+        {
+          "id": 4120,
+          "url": null,
+          "name": "StarLadder",
+          "slug": "starladder",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4120/SL_logo.jpg",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1422,
+              "name": "i-League",
+              "slug": "starladder-2016",
+              "season": null,
+              "begin_at": "2016-01-12T23:00:00Z",
+              "year": 2016,
+              "league_id": 4120,
+              "winner_id": 1706,
+              "winner_type": "Team",
+              "end_at": "2016-01-16T23:00:00Z",
+              "full_name": "I-league 2016"
+            },
+            {
+              "id": 1421,
+              "name": "i-League Invitational",
+              "slug": "starladder-i-league-invitational-1-2016",
+              "season": "1",
+              "begin_at": "2016-04-13T22:00:00Z",
+              "year": 2016,
+              "league_id": 4120,
+              "winner_id": 1722,
+              "winner_type": "Team",
+              "end_at": "2016-04-16T22:00:00Z",
+              "full_name": "I-league invitational season 1 2016"
+            },
+            {
+              "id": 1420,
+              "name": "i-League StarSeries",
+              "slug": "starladder-i-league-starseries-2-2016",
+              "season": "2",
+              "begin_at": "2016-07-20T22:00:00Z",
+              "year": 2016,
+              "league_id": 4120,
+              "winner_id": 1699,
+              "winner_type": "Team",
+              "end_at": "2016-07-23T22:00:00Z",
+              "full_name": "I-league starseries season 2 2016"
+            },
+            {
+              "id": 1419,
+              "name": "i-League StarSeries",
+              "slug": "starladder-i-league-starseries-3-2016",
+              "season": "3",
+              "begin_at": "2017-02-22T23:00:00Z",
+              "year": 2016,
+              "league_id": 4120,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2017-02-25T23:00:00Z",
+              "full_name": "I-league starseries season 3 2016"
+            },
+            {
+              "id": 1418,
+              "name": "i-League Invitational",
+              "slug": "starladder-i-league-invitational-2-2016",
+              "season": "2",
+              "begin_at": "2017-05-17T22:00:00Z",
+              "year": 2016,
+              "league_id": 4120,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2017-05-20T22:00:00Z",
+              "full_name": "I-league invitational season 2 2016"
+            },
+            {
+              "id": 1423,
+              "name": "i-League Invitational",
+              "slug": "starladder-i-league-invitational-3-2017",
+              "season": "3",
+              "begin_at": "2017-10-11T22:00:00Z",
+              "year": 2017,
+              "league_id": 4120,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2017-10-14T22:00:00Z",
+              "full_name": "I-league invitational season 3 2017"
+            },
+            {
+              "id": 1424,
+              "name": "i-League Invitational",
+              "slug": "starladder-i-league-invitational-4-2018",
+              "season": "4",
+              "begin_at": "2018-01-31T23:00:00Z",
+              "year": 2018,
+              "league_id": 4120,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2018-02-03T23:00:00Z",
+              "full_name": "I-league invitational season 4 2018"
+            },
+            {
+              "id": 1465,
+              "name": "i-League Invitational",
+              "slug": "starladder-i-league-invitational-5-2018",
+              "season": "5",
+              "begin_at": "2018-04-11T00:00:00Z",
+              "year": 2018,
+              "league_id": 4120,
+              "winner_id": 1817,
+              "winner_type": "Team",
+              "end_at": "2018-04-15T00:00:00Z",
+              "full_name": "I-league invitational season 5 2018"
+            }
+          ]
+        },
+        {
+          "id": 4121,
+          "url": null,
+          "name": "Dota Pit League",
+          "slug": "dota-pit-league",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4121/DOTA-PIT-S6.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1426,
+              "name": null,
+              "slug": "dota-pit-league-4-2016",
+              "season": "4",
+              "begin_at": "2016-03-18T23:00:00Z",
+              "year": 2016,
+              "league_id": 4121,
+              "winner_id": 1721,
+              "winner_type": "Team",
+              "end_at": "2016-03-19T23:00:00Z",
+              "full_name": "Season 4 2016"
+            },
+            {
+              "id": 1425,
+              "name": null,
+              "slug": "dota-pit-league-5-2016",
+              "season": "5",
+              "begin_at": "2017-01-19T23:00:00Z",
+              "year": 2016,
+              "league_id": 4121,
+              "winner_id": 1653,
+              "winner_type": "Team",
+              "end_at": "2017-01-21T23:00:00Z",
+              "full_name": "Season 5 2016"
+            },
+            {
+              "id": 1427,
+              "name": null,
+              "slug": "dota-pit-league-6-2017",
+              "season": "6",
+              "begin_at": "2017-11-01T23:00:00Z",
+              "year": 2017,
+              "league_id": 4121,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2017-11-04T23:00:00Z",
+              "full_name": "Season 6 2017"
+            }
+          ]
+        },
+        {
+          "id": 4122,
+          "url": null,
+          "name": "Professional League",
+          "slug": "dota-2-professional-league",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4122/Dota2_Professional_League_new.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1496,
+              "name": "Dota 2 Pro League Season 1",
+              "slug": "dota-2-professional-league-dota-2-pro-league-season-1-2016",
+              "season": null,
+              "begin_at": "2016-05-17T22:00:00Z",
+              "year": 2016,
+              "league_id": 4122,
+              "winner_id": 1657,
+              "winner_type": "Team",
+              "end_at": "2016-07-16T22:00:00Z",
+              "full_name": "Dota 2 pro league season 1 2016"
+            },
+            {
+              "id": 1495,
+              "name": "Dota 2 Pro League Season 2",
+              "slug": "dota-2-professional-league-dota-2-pro-league-season-2-2016",
+              "season": null,
+              "begin_at": "2016-09-18T22:00:00Z",
+              "year": 2016,
+              "league_id": 4122,
+              "winner_id": 1652,
+              "winner_type": "Team",
+              "end_at": "2016-12-30T23:00:00Z",
+              "full_name": "Dota 2 pro league season 2 2016"
+            },
+            {
+              "id": 1493,
+              "name": "Dota 2 Pro League Season 3",
+              "slug": "dota-2-professional-league-dota-2-pro-league-season-3-2017",
+              "season": null,
+              "begin_at": "2017-03-14T23:00:00Z",
+              "year": 2017,
+              "league_id": 4122,
+              "winner_id": 1652,
+              "winner_type": "Team",
+              "end_at": "2017-05-06T22:00:00Z",
+              "full_name": "Dota 2 pro league season 3 2017"
+            },
+            {
+              "id": 1492,
+              "name": "Dota 2 Pro League Season 4",
+              "slug": "dota-2-professional-league-dota-2-pro-league-season-4-2018",
+              "season": null,
+              "begin_at": "2017-09-29T22:00:00Z",
+              "year": 2018,
+              "league_id": 4122,
+              "winner_id": 1648,
+              "winner_type": "Team",
+              "end_at": "2018-01-20T23:00:00Z",
+              "full_name": "Dota 2 pro league season 4 2018"
+            },
+            {
+              "id": 1428,
+              "name": "Dota 2 Pro League Season 5",
+              "slug": "dota-2-professional-league-dota-2-pro-league-season-5-2018",
+              "season": null,
+              "begin_at": "2018-03-12T23:00:00Z",
+              "year": 2018,
+              "league_id": 4122,
+              "winner_id": 1676,
+              "winner_type": "Team",
+              "end_at": null,
+              "full_name": "Dota 2 pro league season 5 2018"
+            },
+            {
+              "id": 1429,
+              "name": null,
+              "slug": "dota-2-professional-league-2015",
+              "season": null,
+              "begin_at": null,
+              "year": 2015,
+              "league_id": 4122,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "2015"
+            }
+          ]
+        },
+        {
+          "id": 4123,
+          "url": null,
+          "name": "Mars Dota League",
+          "slug": "mars-dota-2-league",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4123/Mars_Dota2_League.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1430,
+              "name": null,
+              "slug": "mars-dota-2-league-2016",
+              "season": "Autumn",
+              "begin_at": "2016-09-28T00:00:00Z",
+              "year": 2016,
+              "league_id": 4123,
+              "winner_id": 1653,
+              "winner_type": "Team",
+              "end_at": "2016-10-02T00:00:00Z",
+              "full_name": "Autumn 2016"
+            },
+            {
+              "id": 1499,
+              "name": "",
+              "slug": "mars-dota-2-league-2017",
+              "season": "",
+              "begin_at": "2017-05-07T22:00:00Z",
+              "year": 2017,
+              "league_id": 4123,
+              "winner_id": 1657,
+              "winner_type": "Team",
+              "end_at": "2017-07-08T22:00:00Z",
+              "full_name": "2017"
+            },
+            {
+              "id": 1431,
+              "name": "Macau",
+              "slug": "mars-dota-2-league-macau-6-2017",
+              "season": null,
+              "begin_at": "2017-12-07T23:00:00Z",
+              "year": 2017,
+              "league_id": 4123,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2017-12-09T23:00:00Z",
+              "full_name": "Macau 2017"
+            },
+            {
+              "id": 1498,
+              "name": "Changsha Major",
+              "slug": "mars-dota-2-league-changsha-major-2018",
+              "season": null,
+              "begin_at": "2018-05-13T22:00:00Z",
+              "year": 2018,
+              "league_id": 4123,
+              "winner_id": 1657,
+              "winner_type": "Team",
+              "end_at": "2018-05-19T22:00:00Z",
+              "full_name": "Changsha major 2018"
+            }
+          ]
+        },
+        {
+          "id": 4124,
+          "url": null,
+          "name": "ACE Provisional",
+          "slug": "dota-2-ace-provisional",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4124/D.ACE_Provisional.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1432,
+              "name": null,
+              "slug": "dota-2-ace-provisional-2016",
+              "season": null,
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4124,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "2016"
+            }
+          ]
+        },
+        {
+          "id": 4125,
+          "url": null,
+          "name": "DreamLeague",
+          "slug": "dreamleague",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4125/DHDLS9.png",
+          "live_supported": true,
+          "series": [
+            {
+              "id": 1435,
+              "name": null,
+              "slug": "dreamleague-5-2016",
+              "season": "5",
+              "begin_at": "2016-05-20T22:00:00Z",
+              "year": 2016,
+              "league_id": 4125,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2016-05-21T22:00:00Z",
+              "full_name": "Season 5 2016"
+            },
+            {
+              "id": 1434,
+              "name": null,
+              "slug": "dreamleague-6-2016",
+              "season": "6",
+              "begin_at": "2016-11-24T23:00:00Z",
+              "year": 2016,
+              "league_id": 4125,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2016-11-25T23:00:00Z",
+              "full_name": "Season 6 2016"
+            },
+            {
+              "id": 1433,
+              "name": null,
+              "slug": "dreamleague-7-2016",
+              "season": "7",
+              "begin_at": "2017-07-20T22:00:00Z",
+              "year": 2016,
+              "league_id": 4125,
+              "winner_id": 1647,
+              "winner_type": "Team",
+              "end_at": "2017-07-21T22:00:00Z",
+              "full_name": "Season 7 2016"
+            },
+            {
+              "id": 1436,
+              "name": null,
+              "slug": "dreamleague-8-2017",
+              "season": "8",
+              "begin_at": "2017-11-30T23:00:00Z",
+              "year": 2017,
+              "league_id": 4125,
+              "winner_id": 1656,
+              "winner_type": "Team",
+              "end_at": "2017-12-02T23:00:00Z",
+              "full_name": "Season 8 2017"
+            },
+            {
+              "id": 1464,
+              "name": null,
+              "slug": "dreamleague-9-2018",
+              "season": "9",
+              "begin_at": "2018-03-21T00:00:00Z",
+              "year": 2018,
+              "league_id": 4125,
+              "winner_id": 1656,
+              "winner_type": "Team",
+              "end_at": "2018-03-25T00:00:00Z",
+              "full_name": "Season 9 2018"
+            },
+            {
+              "id": 1604,
+              "name": null,
+              "slug": "dreamleague-10-2018",
+              "season": "10",
+              "begin_at": "2018-10-28T23:00:00Z",
+              "year": 2018,
+              "league_id": 4125,
+              "winner_id": null,
+              "winner_type": "Team",
+              "end_at": "2018-11-03T23:00:00Z",
+              "full_name": "Season 10 2018"
+            }
+          ]
+        },
+        {
+          "id": 4126,
+          "url": null,
+          "name": "BEAT Invitational",
+          "slug": "dota-2-beat-invitational",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4126/800px-Northern_Arena_BEAT_Invitational_2016.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1437,
+              "name": null,
+              "slug": "dota-2-beat-invitational-8-2016",
+              "season": "8",
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4126,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Season 8 2016"
+            },
+            {
+              "id": 1438,
+              "name": "Northern Arena",
+              "slug": "dota-2-beat-invitational-2016",
+              "season": null,
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4126,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Northern arena 2016"
+            }
+          ]
+        },
+        {
+          "id": 4127,
+          "url": null,
+          "name": "ROG Masters",
+          "slug": "rog-masters",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4127/Asus_Rog_Masters.png",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1439,
+              "name": null,
+              "slug": "rog-masters-2016",
+              "season": null,
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4127,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "2016"
+            }
+          ]
+        },
+        {
+          "id": 4128,
+          "url": "",
+          "name": "Nanyang Championships",
+          "slug": "nanyang-championships",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4128/800px-NanYang_Championships.png",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1440,
+              "name": null,
+              "slug": "nanyang-championships-2-2016",
+              "season": "2",
+              "begin_at": "2016-07-05T22:00:00Z",
+              "year": 2016,
+              "league_id": 4128,
+              "winner_id": 1652,
+              "winner_type": "Team",
+              "end_at": "2016-07-09T22:00:00Z",
+              "full_name": "Season 2 2016"
+            },
+            {
+              "id": 1472,
+              "name": "Nanyang Cruise Cup",
+              "slug": "nanyang-championships-nanyang-cruise-cup-2016",
+              "season": null,
+              "begin_at": "2016-09-21T22:00:00Z",
+              "year": 2016,
+              "league_id": 4128,
+              "winner_id": 1720,
+              "winner_type": "Team",
+              "end_at": "2016-09-04T22:00:00Z",
+              "full_name": "Nanyang cruise cup 2016"
+            }
+          ]
+        },
+        {
+          "id": 4129,
+          "url": null,
+          "name": "Shanghai Open",
+          "slug": "shanghai-dota-2-open",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4129/SD2O.png",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1441,
+              "name": null,
+              "slug": "shanghai-dota-2-open-2-2016",
+              "season": "2",
+              "begin_at": "2016-09-19T22:00:00Z",
+              "year": 2016,
+              "league_id": 4129,
+              "winner_id": 1652,
+              "winner_type": "Team",
+              "end_at": "2016-10-07T22:00:00Z",
+              "full_name": "Season 2 2016"
+            },
+            {
+              "id": 1442,
+              "name": null,
+              "slug": "shanghai-dota-2-open-1-2016",
+              "season": "1",
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4129,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Season 1 2016"
+            }
+          ]
+        },
+        {
+          "id": 4130,
+          "url": "",
+          "name": "WePlay League",
+          "slug": "weplay-league",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4130/Weplaytv_large.png",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1443,
+              "name": null,
+              "slug": "weplay-league-3-2016",
+              "season": "3",
+              "begin_at": "2016-04-27T22:00:00Z",
+              "year": 2016,
+              "league_id": 4130,
+              "winner_id": 1721,
+              "winner_type": "Team",
+              "end_at": "2016-04-30T22:00:00Z",
+              "full_name": "Season 3 2016"
+            },
+            {
+              "id": 1444,
+              "name": null,
+              "slug": "weplay-league-4-2016",
+              "season": "4",
+              "begin_at": null,
+              "year": 2016,
+              "league_id": 4130,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Season 4 2016"
+            }
+          ]
+        },
+        {
+          "id": 4131,
+          "url": null,
+          "name": "Global eSports Cup LAN",
+          "slug": "global-esports-cup-lan",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4131/Global_eSports_cup_logo.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1445,
+              "name": "Finals",
+              "slug": "global-esports-cup-lan-1-2015",
+              "season": "1",
+              "begin_at": null,
+              "year": 2015,
+              "league_id": 4131,
+              "winner_id": null,
+              "winner_type": null,
+              "end_at": null,
+              "full_name": "Finals season 1 2015"
+            }
+          ]
+        },
+        {
+          "id": 4133,
+          "url": null,
+          "name": "The Final Match",
+          "slug": "the-final-match",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4133/TFM.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1449,
+              "name": null,
+              "slug": "the-final-match-2017",
+              "season": null,
+              "begin_at": "2017-07-06T22:00:00Z",
+              "year": 2017,
+              "league_id": 4133,
+              "winner_id": 1706,
+              "winner_type": "Team",
+              "end_at": "2017-07-08T22:00:00Z",
+              "full_name": "2017"
+            }
+          ]
+        },
+        {
+          "id": 4134,
+          "url": null,
+          "name": "Blood In The Streets",
+          "slug": "blood-in-the-streets",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4134/Blood_in_the_Streets.png",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1450,
+              "name": null,
+              "slug": "blood-in-the-streets-2017",
+              "season": null,
+              "begin_at": "2017-06-11T22:00:00Z",
+              "year": 2017,
+              "league_id": 4134,
+              "winner_id": 1704,
+              "winner_type": "Team",
+              "end_at": "2017-07-22T22:00:00Z",
+              "full_name": "2017"
+            }
+          ]
+        },
+        {
+          "id": 4136,
+          "url": null,
+          "name": "Betway Arena KOTH",
+          "slug": "dota-2-betway-arena-koth",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4136/320px-Betway_Arena_King_of_the_Hill.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1470,
+              "name": "KotH Season 1",
+              "slug": "dota-2-betway-arena-koth-koth-season-1-1-2017",
+              "season": "1",
+              "begin_at": "2017-03-02T23:00:00Z",
+              "year": 2017,
+              "league_id": 4136,
+              "winner_id": 1653,
+              "winner_type": "Team",
+              "end_at": "2017-03-03T04:00:00Z",
+              "full_name": "Koth season 1 season 1 2017"
+            }
+          ]
+        },
+        {
+          "id": 4137,
+          "url": "http://liquipedia.net/dota2/Elimination_Mode/3",
+          "name": "Elimination Mode",
+          "slug": "dota-2-elimination-mode",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4137/maxresdefault.jpg",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1477,
+              "name": "EliminationMode",
+              "slug": "dota-2-elimination-mode-eliminationmode-2-0-2016",
+              "season": "2.0",
+              "begin_at": "2016-10-31T23:00:00Z",
+              "year": 2016,
+              "league_id": 4137,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2016-11-22T23:00:00Z",
+              "full_name": "Eliminationmode 2.0 2016"
+            },
+            {
+              "id": 1476,
+              "name": "EliminationMode",
+              "slug": "dota-2-elimination-mode-eliminationmode-3-0-2017",
+              "season": "3.0",
+              "begin_at": "2017-02-10T23:00:00Z",
+              "year": 2017,
+              "league_id": 4137,
+              "winner_id": 1654,
+              "winner_type": "Team",
+              "end_at": "2017-02-16T23:00:00Z",
+              "full_name": "Eliminationmode 3.0 2017"
+            }
+          ]
+        },
+        {
+          "id": 4138,
+          "url": "http://liquipedia.net/dota2/Mr._Cat_Invitational",
+          "name": "Mr. Cat Invitational",
+          "slug": "dota-2-mr-cat-invitational",
+          "modified_at": null,
+          "image_url": "https://cdn.pandascore.co/images/league/image/4138/MrCatInvitational.png",
+          "live_supported": false,
+          "series": [
+            {
+              "id": 1478,
+              "name": "Cat Invitational",
+              "slug": "dota-2-mr-cat-invitational-cat-invitational-sea-2016",
+              "season": "SEA",
+              "begin_at": "2016-07-10T22:00:00Z",
+              "year": 2016,
+              "league_id": 4138,
+              "winner_id": 1677,
+              "winner_type": "Team",
+              "end_at": "2016-07-28T22:00:00Z",
+              "full_name": "Cat invitational sea 2016"
+            }
+          ]
+        }
+      ],
+      "current_version": null
+    }
+}
 }
